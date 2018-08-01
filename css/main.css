@@ -1,0 +1,25 @@
+body {
+  background-color: #ccc;
+}
+.nav-bar{
+  background-color: #111;
+}
+.menu-section{
+  color: #fff;
+}
+.login-section form input {
+  width: 240px;
+}
+.login-section form button {
+  background-color: #111;
+  color: #fff;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: #fff;
+}
+.login-section form a{
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
+}
